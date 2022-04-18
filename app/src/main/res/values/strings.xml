@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDisApp</string>
+    <string name="edit_name">Enter a name</string>
+    <string name="edit_msg">Enter a message for all users</string>
+    <string name="edit_wish">Enter a wish for matching</string>
+    <string name="button_send">Send</string>
+    <string name="discovery_button">Discovery</string>
+</resources>
